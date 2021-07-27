@@ -1,4 +1,5 @@
 https://public.tableau.com/profile/charlene.gray#!/vizhome/TableauCitiBikeFULL/UserTypeVerseTripDuration
+https://public.tableau.com/app/profile/charlene.gray/viz/TableauCitiBikeFULL/Story1
 
 Citibike Analysis
 
